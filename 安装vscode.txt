@@ -1,0 +1,10 @@
+首先输入指令：
+wget https://vscode.cdn.azure.cn/stable/dfd34e8260c270da74b5c2d86d61aee4b6d56977/code_1.66.2-1649664567_amd64.deb
+然后输入指令：
+sudo dpkg -i code_1.66.2-1649664567_amd64.deb
+安装插件:
+1.chinese插件
+2.code runner 插件
+3.c/c++ 插件
+进行相应设置：
+滚轮缩放 终端显示
